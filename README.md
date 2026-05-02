@@ -3,9 +3,6 @@
 > **Presented at the 4th Annual Graduate Research Conference — Lamar University**
 > 📅 Monday, April 20, 2026 | 📍 Setzer Student Center, Lamar University, Beaumont, TX
 
----
-
-![Poster Presentation](poster_presentation.jpg)
 
 ---
 
@@ -162,7 +159,7 @@ Compare RFR, GBR, HGBR, and Ensemble models with hyperparameter tuning.
 ## 📬 Contact
 
 **Md Rayhan Chowdhury**
-📧 mchowdhury15@lamar.edu
+📧 mchowdhury15@lamar.edu; rayhan.eee.ruet@gmail.com
 🏛️ Department of Electrical Engineering, Lamar University
 
 ---
